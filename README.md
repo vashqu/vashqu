@@ -11,7 +11,7 @@
 
 - 🔬 I'm currently working on **fine-tuning actigraphy transformers (PAT) for Mild Cognitive Impairment classification**, as part of the [OSCOFAI](https://oscofai-project.github.io/) project — sleep-wake measures & cognitive function via AI, @ NKUA Medical School
 - 🧬 I'm helping build a **complete architecture benchmark of pre-miRNA classifiers** — a systematic comparison across model families
-- 🌱 I'm currently learning **RAG, chatbots & AI fundamentals**, taking a **Complex Systems** course @ Aristotle University of Thessaloniki, and studying **computational neuroscience** on my own
+- 🌱 I'm currently learning **RAG, chatbots & AI fundamentals**, taking a **Complex Systems** course @ Aristotle University of Thessaloniki, and studying **computational neuroscience** on my own, by building an EEG-motor classifier
 - 🎓 MSc in Data Science & Informatics (Biodata track) @ **NKUA** · Teaching Assistant for [*Machine Learning in Computational Biology*](https://dsit.di.uoa.gr/machine-learning-in-computational-biology/)
 
 ## What I work on
